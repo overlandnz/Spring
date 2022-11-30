@@ -1,3 +1,7 @@
+# Don't use this for anything new
+
+Forked purely to move to Swift Package Manager
+
 ## Updated for Swift 4.2
 Requires Xcode 10 and Swift 4.2.
 
